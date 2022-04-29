@@ -7,4 +7,5 @@ def munc():
     pass
 
 def gunc():
+    print(0)
     pass
