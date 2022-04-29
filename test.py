@@ -1,4 +1,4 @@
 import random
 
-def func():
-    pass
+def func(a):
+    return a + 1
