@@ -6,5 +6,8 @@ def func(a):
 def munc():
     pass
 
+def xunc():
+    pass
+
 def gunc():
     pass
